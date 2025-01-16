@@ -240,6 +240,10 @@ span, .colored {
         padding: 60px 30px;
     }
 
+    #hero {
+        height: 60vh;
+    }
+
     header {
         flex-direction: column;
         padding: 1rem;
